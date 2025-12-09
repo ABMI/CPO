@@ -1,0 +1,11 @@
+webApiCohortId,cohortId,cohortName
+4316,4316,[HGB] CPO (250217) Target (surgical) 365d
+2885,2885,[HGB] CPO (250113) Comparator
+2170,2170,[HGB] All Dementia ver0 (Psy Outcome)
+2339,2339,[HGB] Alzheimer Dementia ver1 (Psy Outcome)
+2173,2173,[HGB] All Dementia + MCI ver0 (Psy Outcome)
+2342,2342,[HGB] Vascular dementia ver1 (Psy Outcome) stroke revised
+4317,4317,[HGB] CPO (250217) Target (no surgical) 365d
+4318,4318,[HGB] CPO (250217) Target (tooth extraction) 365d
+4319,4319,[HGB] CPO (250217) Target (no tooth extraction) 365d
+2884,2884,[HGB] CPO (250113) Target
